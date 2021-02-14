@@ -9,7 +9,7 @@ my web site in docker, inspired by [wmnnd/nginx-certbot](https://github.com/wmnn
 
 3. Run the init certbot script: `./init-certbot.sh`
 
-my web site:
+my web site source:
 
 * `www.hufeifei.cn`: https://github.com/holmofy/www.hufeifei.cn
 
