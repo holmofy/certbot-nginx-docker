@@ -11,6 +11,6 @@ my web site in docker, inspired by [wmnnd/nginx-certbot](https://github.com/wmnn
 
 my web site:
 
-* www.hufeifei.cn: https://github.com/holmofy/www.hufeifei.cn
+* `www.hufeifei.cn`: https://github.com/holmofy/www.hufeifei.cn
 
-* blog.hufeifei.cn: https://github.com/holmofy/blog.hufeifei.cn
+* `blog.hufeifei.cn`: https://github.com/holmofy/blog.hufeifei.cn
