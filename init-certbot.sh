@@ -5,7 +5,7 @@ if ! [ -x "$(command -v docker-compose)" ]; then
   exit 1
 fi
 
-domains=(www.hufeifei.cn)
+domains=(www.hufeifei.cn blog.hufeifei.cn)
 rsa_key_size=4096
 data_path="./etc/certbot"
 email="hff1996723@qq.com" # Adding a valid address is strongly recommended
