@@ -8,3 +8,9 @@ my web site in docker, inspired by [wmnnd/nginx-certbot](https://github.com/wmnn
 2. Run the init html script: `./init-html.sh`
 
 3. Run the init certbot script: `./init-certbot.sh`
+
+my web site:
+
+* www.hufeifei.cn: https://github.com/holmofy/www.hufeifei.cn
+
+* blog.hufeifei.cn: https://github.com/holmofy/blog.hufeifei.cn
