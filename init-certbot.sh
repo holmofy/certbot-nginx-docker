@@ -7,7 +7,7 @@ fi
 
 domains=(hufeifei.com www.hufeifei.com blog.hufeifei.cn)
 rsa_key_size=4096
-data_path="./data/certbot"
+data_path="./etc/certbot"
 email="hff1996723@qq.com" # Adding a valid address is strongly recommended
 staging=0 # Set to 1 if you're testing your setup to avoid hitting request limits
 
