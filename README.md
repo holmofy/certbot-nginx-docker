@@ -6,11 +6,12 @@ my web site in docker, inspired by [wmnnd/nginx-certbot](https://github.com/wmnn
 1. Clone this repository: `git clone https://github.com/holmofy/certbot-nginx-docker`
 
 2. Run the init html script: `./init-html.sh`
+3. Push website to server
 
-3. Run the init certbot script: `./init-certbot.sh`. May require sudo permissions.
+    my web site source:
 
-my web site source:
+    * `www.hufeifei.cn`: https://github.com/holmofy/www.hufeifei.cn
 
-* `www.hufeifei.cn`: https://github.com/holmofy/www.hufeifei.cn
+    * `blog.hufeifei.cn`: https://github.com/holmofy/blog.hufeifei.cn
+4. Run the init certbot script: `./init-certbot.sh`. May require sudo permissions.
 
-* `blog.hufeifei.cn`: https://github.com/holmofy/blog.hufeifei.cn
