@@ -21,3 +21,4 @@ init_bare_git_repo blog.hufeifei.cn
 
 chown -R git:git "${GIT_HOME}/repo"
 chown -R git:git "${PWD}/html"
+chmod -R 777 "${PWD}/html"
